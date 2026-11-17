@@ -1,6 +1,6 @@
 # Changelog
 
-## [v0.1.0] - 2026-08-15
+## [v0.1.0] - 2026-08-20
 ### Added
-- Estructura inicial del repositorio.
-- Creación de carpetas de backend, frontend y documentación.
+- Estructura base del repositorio.
+- Archivos de configuración inicial.
