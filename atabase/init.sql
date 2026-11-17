@@ -1,6 +1,7 @@
 -- Script de Inicialización de Base de Datos (PostgreSQL)
 -- Fase III: Diseño y Fase IV: Planificación
 CREATE TABLE Pedido (
+    
     id_pedido SERIAL PRIMARY KEY,
     id_mesa INT NOT NULL,
     estado VARCHAR(50)
